@@ -5,6 +5,6 @@
 How to use:
 - Press the "Click to start" button in the bottom.
 - The browser might prompt you to allow microphone access.
-![Grant mic access](https://i.imgur.com/Lz28R0w.png "Mic access prompt on Chrome")
+![Grant mic access](https://i.imgur.com/cwVTn8u.png "Mic access prompt on Chrome")
 - Say one of the words displayed on the page.
 - See its effect on the boxes on the top of the page.
