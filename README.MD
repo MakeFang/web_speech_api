@@ -1,6 +1,6 @@
 # Using speech command to change flexbox justify-content value.
 
-## Warning: The SpeechRecognition API is currently only available in Chrome 69 and Chrome for Android 69: partial support with prefix webkit. Also, it requires a microphone.
+**Warning: The SpeechRecognition API is currently only available in Chrome 69 and Chrome for Android 69: partial support with prefix webkit. Also, it requires a microphone.**
 
 How to use:
 - Press the "Click to start" button in the bottom.
